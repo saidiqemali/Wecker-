@@ -1,0 +1,15 @@
+C:\Users\Saidi\source\repos\wecker\wecker\bin\Debug\netcoreapp3.1\wecker.exe
+C:\Users\Saidi\source\repos\wecker\wecker\bin\Debug\netcoreapp3.1\wecker.deps.json
+C:\Users\Saidi\source\repos\wecker\wecker\bin\Debug\netcoreapp3.1\wecker.runtimeconfig.json
+C:\Users\Saidi\source\repos\wecker\wecker\bin\Debug\netcoreapp3.1\wecker.runtimeconfig.dev.json
+C:\Users\Saidi\source\repos\wecker\wecker\bin\Debug\netcoreapp3.1\wecker.dll
+C:\Users\Saidi\source\repos\wecker\wecker\bin\Debug\netcoreapp3.1\wecker.pdb
+C:\Users\Saidi\source\repos\wecker\wecker\obj\Debug\netcoreapp3.1\wecker.csprojAssemblyReference.cache
+C:\Users\Saidi\source\repos\wecker\wecker\obj\Debug\netcoreapp3.1\wecker.Form1.resources
+C:\Users\Saidi\source\repos\wecker\wecker\obj\Debug\netcoreapp3.1\wecker.csproj.GenerateResource.cache
+C:\Users\Saidi\source\repos\wecker\wecker\obj\Debug\netcoreapp3.1\wecker.AssemblyInfoInputs.cache
+C:\Users\Saidi\source\repos\wecker\wecker\obj\Debug\netcoreapp3.1\wecker.AssemblyInfo.cs
+C:\Users\Saidi\source\repos\wecker\wecker\obj\Debug\netcoreapp3.1\wecker.csproj.CoreCompileInputs.cache
+C:\Users\Saidi\source\repos\wecker\wecker\obj\Debug\netcoreapp3.1\wecker.dll
+C:\Users\Saidi\source\repos\wecker\wecker\obj\Debug\netcoreapp3.1\wecker.pdb
+C:\Users\Saidi\source\repos\wecker\wecker\obj\Debug\netcoreapp3.1\wecker.genruntimeconfig.cache
